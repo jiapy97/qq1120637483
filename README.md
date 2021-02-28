@@ -6,10 +6,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=qq1120637483&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
-## 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 <!--
 **qq1120637483/qq1120637483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
