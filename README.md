@@ -1,11 +1,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]ES6—42：Promise](https://blog.csdn.net/sinat_41696687/article/details/114382100)
 - [[原]ES6—41：生成器](https://blog.csdn.net/sinat_41696687/article/details/114368517)
 - [[原]ES6—40：迭代器](https://blog.csdn.net/sinat_41696687/article/details/114365943)
 - [[转]清理C盘方法](https://blog.csdn.net/sinat_41696687/article/details/114359305)
 - [[转][译] JavaScript 中为什么会有 Symbol 类型？](https://blog.csdn.net/sinat_41696687/article/details/114286970)
-- [[原]ES6—39：Symbol的用法](https://blog.csdn.net/sinat_41696687/article/details/114278574)
 <!-- BLOG-POST-LIST:END -->
 <img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
