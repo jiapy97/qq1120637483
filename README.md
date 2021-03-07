@@ -1,11 +1,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]ES6—45：class中getter和setter的设置方法](https://blog.csdn.net/sinat_41696687/article/details/114482758)
+- [[原]ES6—44：子类对父类方法的重写](https://blog.csdn.net/sinat_41696687/article/details/114482575)
 - [[原]ES6—43：Map数据结构](https://blog.csdn.net/sinat_41696687/article/details/114476756)
 - [[原]ES6—42：Promise](https://blog.csdn.net/sinat_41696687/article/details/114382100)
 - [[原]ES6—41：生成器](https://blog.csdn.net/sinat_41696687/article/details/114368517)
-- [[原]ES6—40：迭代器](https://blog.csdn.net/sinat_41696687/article/details/114365943)
-- [[转]清理C盘方法](https://blog.csdn.net/sinat_41696687/article/details/114359305)
 <!-- BLOG-POST-LIST:END -->
 <img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
