@@ -1,11 +1,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]ES6—50：awiat与async结合使用](https://blog.csdn.net/sinat_41696687/article/details/114573922)
 - [[原]ES6—49：async函数](https://blog.csdn.net/sinat_41696687/article/details/114550057)
 - [[原]ES6—48：模块化](https://blog.csdn.net/sinat_41696687/article/details/114517025)
 - [[原]ES6—47：ES6的对象方法拓展](https://blog.csdn.net/sinat_41696687/article/details/114484089)
 - [[原]ES6—46：ES6中的数值拓展](https://blog.csdn.net/sinat_41696687/article/details/114483101)
-- [[原]ES6—45：class中getter和setter的设置方法](https://blog.csdn.net/sinat_41696687/article/details/114482758)
 <!-- BLOG-POST-LIST:END -->
 <img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
