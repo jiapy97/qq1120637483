@@ -1,11 +1,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]「注解」你不知道的JavaScript（上卷）第一章：作用域是什么](https://blog.csdn.net/sinat_41696687/article/details/114643139)
 - [[原]ES6—57：globalThis](https://blog.csdn.net/sinat_41696687/article/details/114640889)
 - [[原]ES6—56：BigInt类型](https://blog.csdn.net/sinat_41696687/article/details/114640724)
 - [[原]ES6—55：动态import](https://blog.csdn.net/sinat_41696687/article/details/114640345)
 - [[原]ES6—54：可选链操作符](https://blog.csdn.net/sinat_41696687/article/details/114639689)
-- [[原]ES6—53：私有属性](https://blog.csdn.net/sinat_41696687/article/details/114633426)
 <!-- BLOG-POST-LIST:END -->
 <img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
