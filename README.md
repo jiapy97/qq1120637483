@@ -1,7 +1,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[原]「注解」你不知道的JavaScript（上卷）第一章：作用域是什么](https://blog.csdn.net/sinat_41696687/article/details/114643139)
+- [[原]「注解」《你不知道的JavaScript（上卷）》第一章：作用域是什么](https://blog.csdn.net/sinat_41696687/article/details/114643139)
 - [[原]ES6—57：globalThis](https://blog.csdn.net/sinat_41696687/article/details/114640889)
 - [[原]ES6—56：BigInt类型](https://blog.csdn.net/sinat_41696687/article/details/114640724)
 - [[原]ES6—55：动态import](https://blog.csdn.net/sinat_41696687/article/details/114640345)
