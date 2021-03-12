@@ -1,11 +1,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]JavaScript中链表的基础结构与增加节点的方法](https://blog.csdn.net/sinat_41696687/article/details/114687953)
+- [[原]LeetCode——删除链表的节点](https://blog.csdn.net/sinat_41696687/article/details/114686985)
 - [[原]Ajax-05：Ajax请求的基本步骤](https://blog.csdn.net/sinat_41696687/article/details/114680972)
 - [[原]Ajax-04：使用Ajax前的准备工作](https://blog.csdn.net/sinat_41696687/article/details/114675983)
 - [[原]Ajax-03：Express基本使用](https://blog.csdn.net/sinat_41696687/article/details/114669839)
-- [[原]Ajax-02：Chrome网络控制台查看通信报文](https://blog.csdn.net/sinat_41696687/article/details/114667399)
-- [[原]Ajax-01：Ajax概述](https://blog.csdn.net/sinat_41696687/article/details/114655374)
 <!-- BLOG-POST-LIST:END -->
 <img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
