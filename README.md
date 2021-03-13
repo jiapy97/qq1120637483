@@ -1,11 +1,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]Ajax-12：请求超时与异常处理](https://blog.csdn.net/sinat_41696687/article/details/114729310)
+- [[原]Ajax-11：解决IE缓存问题](https://blog.csdn.net/sinat_41696687/article/details/114728762)
+- [[原]LeetCode——左旋转字符串](https://blog.csdn.net/sinat_41696687/article/details/114728106)
 - [[原]Ajax-10：服务端保存即自动重启工具包nodemon安装](https://blog.csdn.net/sinat_41696687/article/details/114727049)
 - [[原]Ajax-09：服务端响应JSON数据](https://blog.csdn.net/sinat_41696687/article/details/114709471)
-- [[原]Ajax-08：Ajax设置请求头信息](https://blog.csdn.net/sinat_41696687/article/details/114701892)
-- [[原]Ajax-07：Ajax发送POST请求](https://blog.csdn.net/sinat_41696687/article/details/114697978)
-- [[原]使用mouseover事件在Chrome浏览器失灵的原因](https://blog.csdn.net/sinat_41696687/article/details/114697169)
 <!-- BLOG-POST-LIST:END -->
 <img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
