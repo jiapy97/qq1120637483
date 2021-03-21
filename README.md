@@ -1,11 +1,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]React-06：函数式组件](https://blog.csdn.net/sinat_41696687/article/details/115042485)
 - [[原]ERROR: Command `Install ‘code‘ command in PATH` exited with status code 1.](https://blog.csdn.net/sinat_41696687/article/details/115041660)
 - [[原]LeetCode——二叉搜索树的第K大的节点](https://blog.csdn.net/sinat_41696687/article/details/115039619)
 - [[原]JS文件通过Node运行和HTML文件的script标签运行不一致的原因](https://blog.csdn.net/sinat_41696687/article/details/115034907)
 - [[原]「注解」《你不知道的JavaScript（上卷）》第五章：作用域闭包](https://blog.csdn.net/sinat_41696687/article/details/115010808)
-- [[原]React-06：模块与组件的理解](https://blog.csdn.net/sinat_41696687/article/details/115030944)
 <!-- BLOG-POST-LIST:END -->
 <img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
