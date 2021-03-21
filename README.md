@@ -1,11 +1,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]React-11：setState的使用](https://blog.csdn.net/sinat_41696687/article/details/115055470)
 - [[原]React-10：React类中自定义方法的this指向](https://blog.csdn.net/sinat_41696687/article/details/115052625)
 - [[原]React-09：React中的事件绑定](https://blog.csdn.net/sinat_41696687/article/details/115051854)
 - [[原]React-08：组件实例的三大核心属性之state](https://blog.csdn.net/sinat_41696687/article/details/115049824)
 - [[原]React-07：类式组件](https://blog.csdn.net/sinat_41696687/article/details/115049080)
-- [[原]React-06：函数式组件](https://blog.csdn.net/sinat_41696687/article/details/115042485)
 <!-- BLOG-POST-LIST:END -->
 <img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
