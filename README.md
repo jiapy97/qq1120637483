@@ -1,11 +1,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]剑指Offer——二叉搜索树的最近公共祖先（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/115350385)
 - [[原]JS中reduce方法](https://blog.csdn.net/sinat_41696687/article/details/115327881)
 - [[原]JS中some()方法](https://blog.csdn.net/sinat_41696687/article/details/115327696)
 - [[原]JS中every()方法](https://blog.csdn.net/sinat_41696687/article/details/115327516)
 - [[原]JS中对数组进行排序（sort）](https://blog.csdn.net/sinat_41696687/article/details/115326192)
-- [[原]JS中使数组倒序排列](https://blog.csdn.net/sinat_41696687/article/details/115326076)
 <!-- BLOG-POST-LIST:END -->
 <img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
