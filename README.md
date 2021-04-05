@@ -1,7 +1,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[原]剑指Offer——数组中重复的数字（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/115440605)
+- [[原]剑指Offer——二叉搜索树与双向链表（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/115440605)
 - [[原]JS中的for in循环中的变量指的是什么？](https://blog.csdn.net/sinat_41696687/article/details/115439173)
 - [[原]将一句英文的每个单词首字母大写其余字母小写](https://blog.csdn.net/sinat_41696687/article/details/115426621)
 - [[原]JS中判断一个值是否为布尔类型的值](https://blog.csdn.net/sinat_41696687/article/details/115426368)
