@@ -1,11 +1,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]React-61：错误边界](https://blog.csdn.net/sinat_41696687/article/details/116006620)
 - [[原]React-60：render props](https://blog.csdn.net/sinat_41696687/article/details/115981322)
 - [[原]剑指Offer——最小的K个数（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/115999098)
 - [[原]React中setState不起作用的情况](https://blog.csdn.net/sinat_41696687/article/details/115977916)
 - [[原]React-59：PureComponent](https://blog.csdn.net/sinat_41696687/article/details/115974071)
-- [[原]React报错：Element type is invalid：expected a string or a class/function](https://blog.csdn.net/sinat_41696687/article/details/115962045)
 <!-- BLOG-POST-LIST:END -->
 <img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
