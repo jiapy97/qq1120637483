@@ -1,7 +1,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[原]剑指Offer——剪绳子（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/116084658)
+- [[原]剑指Offer——字符串的排列（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/116084658)
 - [[原]Webpack-01：Webpack简介](https://blog.csdn.net/sinat_41696687/article/details/116052297)
 - [[原]剑指Offer——剪绳子（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/116043838)
 - [[原]React-62：组件间通信方式总结](https://blog.csdn.net/sinat_41696687/article/details/116014268)
