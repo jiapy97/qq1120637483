@@ -15,7 +15,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true&theme=radical" alt="logo" height="160"  align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true&material-palenight" alt="logo" height="160"  align="left" style="margin: 5px; margin-bottom: 20px;" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=qq1120637483&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
