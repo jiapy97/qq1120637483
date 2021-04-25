@@ -15,10 +15,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true&material" alt="logo" height="160"  align="left" style="margin: 5px; margin-bottom: 20px;" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=qq1120637483&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
-
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
@@ -31,23 +27,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#5515](https://github.com/simple-icons/simple-icons/issues/5515) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. ❗️ Opened issue [#9](https://github.com/DenverCoder1/readme-typing-svg/issues/9) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. 🗣 Commented on [#5515](https://github.com/simple-icons/simple-icons/issues/5515) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#5518](https://github.com/simple-icons/simple-icons/issues/5518) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 🗣 Commented on [#5515](https://github.com/simple-icons/simple-icons/issues/5515) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-<!--END_SECTION:activity-->
-</details>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 <!--
