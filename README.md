@@ -7,7 +7,7 @@
 - [[原]剑指Offer——剪绳子（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/116043838)
 - [[原]React-62：组件间通信方式总结](https://blog.csdn.net/sinat_41696687/article/details/116014268)
 <!-- BLOG-POST-LIST:END -->
-<img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true&theme=radical" alt="logo" height="160" float="right" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true&theme=radical" alt="logo" height="160"  align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=qq1120637483&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
