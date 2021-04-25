@@ -40,6 +40,8 @@
   <img src="https://github.com/sps619/sps619/blob/main/svg/dev/frameworks/nodejs.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://github.com/sps619/sps619/blob/main/svg/dev/frameworks/vue.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://github.com/sps619/sps619/blob/main/svg/dev/services/office_365.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/sps619/sps619/blob/main/svg/dev/services/leetcode.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/sps619/sps619/blob/main/svg/dev/tools/vmware.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
