@@ -26,7 +26,7 @@
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-### - Languages and Tools...
+## :globe_with_meridians: Languages and Tools...
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
