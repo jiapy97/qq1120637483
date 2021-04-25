@@ -1,5 +1,5 @@
 ## 📕 Latest Blog Posts
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <!-- BLOG-POST-LIST:START -->
 - [[原]剑指Offer——把数组排成最小的数（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/116120985)
 - [[原]剑指Offer——字符串的排列（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/116084658)
@@ -8,7 +8,7 @@
 - [[原]React-62：组件间通信方式总结](https://blog.csdn.net/sinat_41696687/article/details/116014268)
 <!-- BLOG-POST-LIST:END -->
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
