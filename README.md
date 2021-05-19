@@ -3,11 +3,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]剑指Offer——数值的整数次方（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/117021553)
 - [[原]剑指Offer——I. 斐波那契数列（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/116975848)
 - [[原]剑指Offer——正则表达式匹配（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/116942446)
 - [[原]React项目中一种维持登录的方法](https://blog.csdn.net/sinat_41696687/article/details/116903182)
 - [[原]事件循环机制（Event Loop）的基本认知](https://blog.csdn.net/sinat_41696687/article/details/116896918)
-- [[原]剑指Offer——二维数组中的查找（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/116882280)
 <!-- BLOG-POST-LIST:END -->
 
 
