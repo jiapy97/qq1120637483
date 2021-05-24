@@ -3,11 +3,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]VSCode根据文件名快速打开文件的方法](https://blog.csdn.net/sinat_41696687/article/details/117231410)
 - [[原]剑指Offer——表示数值的字符串（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/117171733)
 - [[原]剑指Offer——把字符串转换成整数（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/117106954)
 - [[原]剑指Offer——剪绳子II（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/117060442)
 - [[原]can‘t convert BigInt value to Number value](https://blog.csdn.net/sinat_41696687/article/details/117047692)
-- [[原]剑指Offer——数值的整数次方（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/117021553)
 <!-- BLOG-POST-LIST:END -->
 
 
