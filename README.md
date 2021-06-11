@@ -3,11 +3,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]这一次，彻底搞懂Promise的状态转换](https://blog.csdn.net/sinat_41696687/article/details/117817952)
 - [[原]HOT100——合并K个升序链表（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/117815178)
 - [[原]155个JavaScript基础问题（106-115）](https://blog.csdn.net/sinat_41696687/article/details/117806820)
 - [[原]155个JavaScript基础问题（96-105）](https://blog.csdn.net/sinat_41696687/article/details/117766450)
 - [[原]HOT100——括号生成（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/117745084)
-- [[原]一段代码看懂原型对象中的callback](https://blog.csdn.net/sinat_41696687/article/details/117744096)
 <!-- BLOG-POST-LIST:END -->
 
 
