@@ -3,11 +3,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]HOT100——最长有效括号（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/117957843)
 - [[原]155个JavaScript基础问题（146-155）](https://blog.csdn.net/sinat_41696687/article/details/117918571)
 - [[原]155个JavaScript基础问题（136-145）](https://blog.csdn.net/sinat_41696687/article/details/117905229)
 - [[原]155个JavaScript基础问题（126-135）](https://blog.csdn.net/sinat_41696687/article/details/117868283)
 - [[原]155个JavaScript基础问题（116-125）](https://blog.csdn.net/sinat_41696687/article/details/117849726)
-- [[原]这一次，彻底搞懂Promise的状态转换](https://blog.csdn.net/sinat_41696687/article/details/117817952)
 <!-- BLOG-POST-LIST:END -->
 
 
