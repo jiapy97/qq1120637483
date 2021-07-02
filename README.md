@@ -3,11 +3,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]错误边界(精读React官方文档—16)](https://blog.csdn.net/sinat_41696687/article/details/118405714)
 - [[原]Context(精读React官方文档—15)](https://blog.csdn.net/sinat_41696687/article/details/118380373)
 - [[原]代码分割(精读React官方文档—14)](https://blog.csdn.net/sinat_41696687/article/details/118357423)
 - [[原]ByteDance的面试题](https://blog.csdn.net/sinat_41696687/article/details/118354416)
 - [[原]无障碍辅助功能(精读React官方文档—13)](https://blog.csdn.net/sinat_41696687/article/details/118326489)
-- [[原]React哲学(精读React官方文档—12)](https://blog.csdn.net/sinat_41696687/article/details/118267217)
 <!-- BLOG-POST-LIST:END -->
 
 
