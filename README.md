@@ -3,11 +3,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]React之shouldComponentUpdate的用法](https://blog.csdn.net/sinat_41696687/article/details/118802058)
 - [[原]这一次彻底搞懂JS中的防抖和节流（面试必问）](https://blog.csdn.net/sinat_41696687/article/details/118787625)
 - [[原]React中的setState更新state是同步还是异步的？](https://blog.csdn.net/sinat_41696687/article/details/118762273)
 - [[原]深入 JSX(精读React官方文档—21)](https://blog.csdn.net/sinat_41696687/article/details/118753640)
 - [[原]凯撒密码（FreeCodeCamp）](https://blog.csdn.net/sinat_41696687/article/details/118751374)
-- [[原]手写快速排序（JavaScript）](https://blog.csdn.net/sinat_41696687/article/details/118732731)
 <!-- BLOG-POST-LIST:END -->
 
 
