@@ -3,11 +3,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]TypeScript的类型注解--(TypeScript 02)](https://blog.csdn.net/sinat_41696687/article/details/118900988)
 - [[原]如何排查是哪个插件影响了我们的CSS样式？](https://blog.csdn.net/sinat_41696687/article/details/118890520)
 - [[原]LeetCode——字符串相加（JS实现）](https://blog.csdn.net/sinat_41696687/article/details/118862810)
 - [[原]这一次，彻底搞懂React生命周期](https://blog.csdn.net/sinat_41696687/article/details/118859042)
 - [[原]TypeScript介绍--(TypeScript 01)](https://blog.csdn.net/sinat_41696687/article/details/118827897)
-- [[原]React之PureComponent的用法](https://blog.csdn.net/sinat_41696687/article/details/118806635)
 <!-- BLOG-POST-LIST:END -->
 
 
