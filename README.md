@@ -3,11 +3,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]Node 04--使用Node处理表单请求与两种暴露方式](https://blog.csdn.net/sinat_41696687/article/details/119489533)
 - [[原]Node 03--在Node中使用模板引擎进行渲染](https://blog.csdn.net/sinat_41696687/article/details/119463274)
 - [[原]Node 02--Node中的模块系统与响应中文编码](https://blog.csdn.net/sinat_41696687/article/details/119418258)
 - [[原]Node 01--使用Node读写文件与简单的Http服务](https://blog.csdn.net/sinat_41696687/article/details/119387562)
 - [[原]五分钟带你学会--图片懒加载](https://blog.csdn.net/sinat_41696687/article/details/119358532)
-- [[原]FreeCodeCamp经典题目（收银机）](https://blog.csdn.net/sinat_41696687/article/details/119333648)
 <!-- BLOG-POST-LIST:END -->
 
 
