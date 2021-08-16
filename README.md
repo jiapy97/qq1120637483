@@ -3,11 +3,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]一篇文章掌握Egg.js的核心用法](https://blog.csdn.net/sinat_41696687/article/details/119738976)
 - [[原]【青训营】- Script标签中async和defer属性总结](https://blog.csdn.net/sinat_41696687/article/details/119719499)
 - [[原]LeetCode——替换后的最长重复字符（滑动窗口）](https://blog.csdn.net/sinat_41696687/article/details/119700189)
 - [[原]必须搞懂的跨域解决方案](https://blog.csdn.net/sinat_41696687/article/details/119678685)
 - [[原]LeetCode——最大连续1的个数 III（滑动窗口）](https://blog.csdn.net/sinat_41696687/article/details/119638787)
-- [[原]这一次，不再为web页面生命周期烦恼](https://blog.csdn.net/sinat_41696687/article/details/119610498)
 <!-- BLOG-POST-LIST:END -->
 
 
