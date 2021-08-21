@@ -3,11 +3,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]【青训营】- TypeScript入门笔记](https://blog.csdn.net/sinat_41696687/article/details/119844763)
 - [[原]【青训营】- Node.js基础入门笔记2](https://blog.csdn.net/sinat_41696687/article/details/119825695)
 - [[原]【青训营】- Node.js基础入门笔记1](https://blog.csdn.net/sinat_41696687/article/details/119808342)
 - [[原]【青训营】- 如何写好JS](https://blog.csdn.net/sinat_41696687/article/details/119785533)
 - [[原]【青训营】- Web标准与前端开发](https://blog.csdn.net/sinat_41696687/article/details/119766416)
-- [[原]一篇文章掌握Egg.js的核心用法](https://blog.csdn.net/sinat_41696687/article/details/119738976)
 <!-- BLOG-POST-LIST:END -->
 
 
