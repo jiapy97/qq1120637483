@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]这一次，彻底搞懂闭包](https://blog.csdn.net/sinat_41696687/article/details/120064549)
 - [[原]学会使用useMemo和useCallback对你没坏处](https://blog.csdn.net/sinat_41696687/article/details/120010434)
 - [[原]大厂面试必须掌握的六种继承方式，你会吗？](https://blog.csdn.net/sinat_41696687/article/details/119989812)
 - [[原]【青训营】- JavaScript中的设计模式笔记](https://blog.csdn.net/sinat_41696687/article/details/119985281)
 - [[原]这一次，彻底搞懂useEffect](https://blog.csdn.net/sinat_41696687/article/details/119976973)
-- [[原]一道看似简单的阿里前端算法题](https://blog.csdn.net/sinat_41696687/article/details/119969944)
 <!-- BLOG-POST-LIST:END -->
 
 
