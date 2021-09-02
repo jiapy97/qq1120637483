@@ -9,7 +9,6 @@
 - 📫 How to reach me:  1120637483@qq.com.
 
 
-<br></br>
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
