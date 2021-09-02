@@ -1,5 +1,3 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -11,7 +9,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-## 👨🏻‍💻 Github stats
+## :octocat: Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
