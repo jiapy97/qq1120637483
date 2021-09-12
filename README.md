@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]【青训营】- 小程序开发笔记](https://blog.csdn.net/sinat_41696687/article/details/120250859)
 - [[原]面试官让我手写Promise.all](https://blog.csdn.net/sinat_41696687/article/details/120222703)
 - [[原]前端面试不会直接挂掉的题目--冒泡排序](https://blog.csdn.net/sinat_41696687/article/details/120197883)
 - [[原]LeetCode——LRU 缓存机制（借助Map）](https://blog.csdn.net/sinat_41696687/article/details/120159864)
 - [[原]二刷--二叉树的最近公共祖先](https://blog.csdn.net/sinat_41696687/article/details/120095654)
-- [[原]这一次，彻底搞懂闭包](https://blog.csdn.net/sinat_41696687/article/details/120064549)
 <!-- BLOG-POST-LIST:END -->
 
 
