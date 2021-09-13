@@ -14,7 +14,7 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[原]搭建next前台开发环境并按需引入antd](https://blog.csdn.net/sinat_41696687/article/details/120253217)
+- [[原]搭建next前台开发环境并引入antd](https://blog.csdn.net/sinat_41696687/article/details/120253217)
 - [[原]【青训营】- 走进Web多媒体笔记](https://blog.csdn.net/sinat_41696687/article/details/120251196)
 - [[原]【青训营】- 小程序开发笔记](https://blog.csdn.net/sinat_41696687/article/details/120250859)
 - [[原]面试官让我手写Promise.all](https://blog.csdn.net/sinat_41696687/article/details/120222703)
