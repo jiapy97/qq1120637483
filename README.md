@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]如何控制Promise的串行执行？](https://blog.csdn.net/sinat_41696687/article/details/120447333)
 - [[原]TypeScript核心基础](https://blog.csdn.net/sinat_41696687/article/details/120428721)
 - [[原]优化HTTP请求和响应的方法](https://blog.csdn.net/sinat_41696687/article/details/120396045)
 - [[原]（五千字-值得背诵）一篇文章搞定几乎所有TCP/UDP面试题](https://blog.csdn.net/sinat_41696687/article/details/120394203)
 - [[原]二刷--两数相加](https://blog.csdn.net/sinat_41696687/article/details/120374476)
-- [[原]因缺少绝对路径引发的部署血案](https://blog.csdn.net/sinat_41696687/article/details/120364089)
 <!-- BLOG-POST-LIST:END -->
 
 
