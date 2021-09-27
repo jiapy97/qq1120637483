@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]面试官：你了解HTTP/2协议吗？](https://blog.csdn.net/sinat_41696687/article/details/120507040)
 - [[原]你了解HTTP长连接吗？](https://blog.csdn.net/sinat_41696687/article/details/120503051)
 - [[原]DNS解析优化的主要方法](https://blog.csdn.net/sinat_41696687/article/details/120493168)
 - [[原]LeetCode——路径总和（DFS）](https://blog.csdn.net/sinat_41696687/article/details/120468160)
 - [[原]二刷--用两个栈实现队列](https://blog.csdn.net/sinat_41696687/article/details/120467253)
-- [[原]如何控制Promise的串行执行？](https://blog.csdn.net/sinat_41696687/article/details/120447333)
 <!-- BLOG-POST-LIST:END -->
 
 
