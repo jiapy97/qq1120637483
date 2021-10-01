@@ -17,7 +17,7 @@
 - [[原]LeetCode——爬楼梯（动态规划）](https://blog.csdn.net/sinat_41696687/article/details/120561125)
 - [[原]压缩HTTP请求和响应数据的方法](https://blog.csdn.net/sinat_41696687/article/details/120547642)
 - [[原]LeetCode——买卖股票的最佳时机（动态规划+更新极值）](https://blog.csdn.net/sinat_41696687/article/details/120543697)
-- [[原]React之diff算法](https://blog.csdn.net/sinat_41696687/article/details/120541156)
+- [[原]这一次，彻底搞懂React的diff算法](https://blog.csdn.net/sinat_41696687/article/details/120541156)
 - [[原]这一次，彻底搞定伪类和伪元素的区别](https://blog.csdn.net/sinat_41696687/article/details/120528111)
 <!-- BLOG-POST-LIST:END -->
 
