@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]TypeScript之初识interface](https://blog.csdn.net/sinat_41696687/article/details/120858471)
 - [[原]前端经久不衰的面试题--数组乱序](https://blog.csdn.net/sinat_41696687/article/details/120839827)
 - [[原]有大用途的useRef](https://blog.csdn.net/sinat_41696687/article/details/120819375)
 - [[原]二刷--无重复字符的最长子串](https://blog.csdn.net/sinat_41696687/article/details/120794073)
 - [[原]从原理上解读useState钩子函数](https://blog.csdn.net/sinat_41696687/article/details/120793892)
-- [[原]LeetCode——有效的括号（借助栈）](https://blog.csdn.net/sinat_41696687/article/details/120758907)
 <!-- BLOG-POST-LIST:END -->
 
 
