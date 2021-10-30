@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]Egg.js中控制器基类的简明用法](https://blog.csdn.net/sinat_41696687/article/details/121047568)
 - [[原]Egg.js中路由的核心用法](https://blog.csdn.net/sinat_41696687/article/details/121046535)
 - [[原]（最系统、最全面）这一次，彻底搞懂HTTP面试](https://blog.csdn.net/sinat_41696687/article/details/121029136)
 - [[原]Egg.js中间件的核心用法](https://blog.csdn.net/sinat_41696687/article/details/121017715)
 - [[原]Egg.js中使用extend、Cookie、Session的基本方式](https://blog.csdn.net/sinat_41696687/article/details/121008041)
-- [[原]LeetCode——合并两个有序数组（双指针）](https://blog.csdn.net/sinat_41696687/article/details/121006532)
 <!-- BLOG-POST-LIST:END -->
 
 
