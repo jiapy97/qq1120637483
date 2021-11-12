@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]Egg中使用Sequelize ORM框架操作MySQL--关联查询](https://blog.csdn.net/sinat_41696687/article/details/121282326)
 - [[原]这一次，彻底搞懂垂直水平居中](https://blog.csdn.net/sinat_41696687/article/details/121260457)
 - [[原]使用JS打印九九乘法表](https://blog.csdn.net/sinat_41696687/article/details/121240672)
 - [[原]Egg.js中间件进行登录鉴权的核心思路](https://blog.csdn.net/sinat_41696687/article/details/121220199)
 - [[原]LeetCode——K个一组翻转链表（三指针）](https://blog.csdn.net/sinat_41696687/article/details/121200674)
-- [[原]Egg中使用Sequelize ORM框架操作MySQL--增删改查](https://blog.csdn.net/sinat_41696687/article/details/121187759)
 <!-- BLOG-POST-LIST:END -->
 
 
