@@ -2,7 +2,7 @@
 <div>
   <img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=qq1120637483&show_icons=true&count_private=true&theme=react&hide_border=true&hide_title=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" align= "right" />
 
-- 🎒 About to be a junior at XDU. 
+- 🎒 A master's student at XDU. 
 - 🔬 I’m currently focused on [![Next](https://img.shields.io/badge/-Next-brightgreen)](https://). 
 - 😋 I enjoy working on Front-End development.
 - 🎵 Fun fact: I use Apple Music for Android.
