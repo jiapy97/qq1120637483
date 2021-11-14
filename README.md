@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]Egg.js创建基类、配置公共的页面、后台地址与退出登录](https://blog.csdn.net/sinat_41696687/article/details/121313645)
 - [[原]Egg.js中复用静态页面逻辑、局部刷新架构、生成验证码](https://blog.csdn.net/sinat_41696687/article/details/121299663)
 - [[原]Egg中使用Sequelize ORM框架操作MySQL--关联查询](https://blog.csdn.net/sinat_41696687/article/details/121282326)
 - [[原]这一次，彻底搞懂垂直水平居中](https://blog.csdn.net/sinat_41696687/article/details/121260457)
 - [[原]使用JS打印九九乘法表](https://blog.csdn.net/sinat_41696687/article/details/121240672)
-- [[原]Egg.js中间件进行登录鉴权的核心思路](https://blog.csdn.net/sinat_41696687/article/details/121220199)
 <!-- BLOG-POST-LIST:END -->
 
 
