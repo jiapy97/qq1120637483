@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]Egg.js中封装Ajax，异步改变数据状态与分页功能的实现](https://blog.csdn.net/sinat_41696687/article/details/121725133)
 - [[原]有趣的算法题：反转不包含字母的字符串](https://blog.csdn.net/sinat_41696687/article/details/121712006)
 - [[原]LeetCode——二叉树的最大深度（递归法+层序遍历）](https://blog.csdn.net/sinat_41696687/article/details/121690509)
 - [[原]LeetCode——二进制求和（字符串求和法）](https://blog.csdn.net/sinat_41696687/article/details/121669304)
 - [[原]Webpack面试题系统梳理（完美应对90%场景）](https://blog.csdn.net/sinat_41696687/article/details/121649849)
-- [[原]LeetCode——用栈实现队列（入队栈+出队栈）](https://blog.csdn.net/sinat_41696687/article/details/121647140)
 <!-- BLOG-POST-LIST:END -->
 
 
