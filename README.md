@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]从零开始掌握Vuex](https://blog.csdn.net/sinat_41696687/article/details/122024089)
 - [[原]一文带你学习：Vue生命周期、this.$nextTick、将Axios绑定到全局、输入防抖](https://blog.csdn.net/sinat_41696687/article/details/122020367)
 - [[原]一篇文章总结Vue3中的路由与路由配置](https://blog.csdn.net/sinat_41696687/article/details/121908432)
 - [[原]这一次，彻底搞懂箭头函数](https://blog.csdn.net/sinat_41696687/article/details/121903414)
 - [[原]这一次彻底搞懂CSRF与XSS](https://blog.csdn.net/sinat_41696687/article/details/121883945)
-- [[原]LeetCode——搜索插入位置（二分查找）](https://blog.csdn.net/sinat_41696687/article/details/121869495)
 <!-- BLOG-POST-LIST:END -->
 
 
