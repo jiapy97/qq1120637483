@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]在Egg.js中格式化日期](https://blog.csdn.net/sinat_41696687/article/details/122284486)
 - [[原]图解前端调试工具Chrome Dev Tools的使用](https://blog.csdn.net/sinat_41696687/article/details/122265559)
 - [[原]LeetCode——环形链表（快慢指针）](https://blog.csdn.net/sinat_41696687/article/details/122265506)
 - [[原]这一次，彻底搞懂ES6新特性](https://blog.csdn.net/sinat_41696687/article/details/122231166)
 - [[原]Webpack中externals与dll](https://blog.csdn.net/sinat_41696687/article/details/122208054)
-- [[原]带你从零学会---基于JWT的接口权限验证](https://blog.csdn.net/sinat_41696687/article/details/122208024)
 <!-- BLOG-POST-LIST:END -->
 
 
