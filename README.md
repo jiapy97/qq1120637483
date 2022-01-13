@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]字节青训营笔试之数字金额格式化](https://blog.csdn.net/sinat_41696687/article/details/122467471)
 - [[原]LeetCode——删除字符串中的所有相邻重复项（用栈实现打牌思路）](https://blog.csdn.net/sinat_41696687/article/details/122386965)
 - [[原]这一次，彻底搞懂困扰已久的Redux](https://blog.csdn.net/sinat_41696687/article/details/122376142)
 - [[原]安装sass并将sass文件转换为css文件](https://blog.csdn.net/sinat_41696687/article/details/122368055)
 - [[原]LeetCode——最小栈（辅助栈）](https://blog.csdn.net/sinat_41696687/article/details/122338320)
-- [[原]（二刷）LeetCode——最大连续1的个数 III（滑动窗口）](https://blog.csdn.net/sinat_41696687/article/details/122297217)
 <!-- BLOG-POST-LIST:END -->
 
 
