@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]Vue+TS中全局绑定axios、storage、接口地址的方法](https://blog.csdn.net/sinat_41696687/article/details/122654131)
 - [[原]Error on importing VueAnalytics to main.ts in Vue CLI &lpar;Vue3&rpar;](https://blog.csdn.net/sinat_41696687/article/details/122640934)
 - [[原]Vue3中集成并使用TypeScript](https://blog.csdn.net/sinat_41696687/article/details/122578693)
 - [[原]LeetCode——螺旋矩阵（上下左右四指针辅助法）](https://blog.csdn.net/sinat_41696687/article/details/122488254)
 - [[原]字节青训营笔试之数字金额格式化](https://blog.csdn.net/sinat_41696687/article/details/122467471)
-- [[原]LeetCode——删除字符串中的所有相邻重复项（用栈实现打牌思路）](https://blog.csdn.net/sinat_41696687/article/details/122386965)
 <!-- BLOG-POST-LIST:END -->
 
 
