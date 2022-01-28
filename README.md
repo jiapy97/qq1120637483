@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]轻量级服务器通过nginx部署express项目](https://blog.csdn.net/sinat_41696687/article/details/122731442)
 - [[原]VSCode插件remote-ssh无法连接服务器的解决办法](https://blog.csdn.net/sinat_41696687/article/details/122724782)
 - [[原]Socket.io中的命名空间](https://blog.csdn.net/sinat_41696687/article/details/122713153)
 - [[原]大白话带你理解Socket.io是如何同步数据的](https://blog.csdn.net/sinat_41696687/article/details/122695473)
 - [[原]nextTick的实际使用场景分析](https://blog.csdn.net/sinat_41696687/article/details/122686302)
-- [[原]Vue+TS中全局绑定axios、storage、接口地址的方法](https://blog.csdn.net/sinat_41696687/article/details/122654131)
 <!-- BLOG-POST-LIST:END -->
 
 
