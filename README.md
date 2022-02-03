@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]从零开始使用Neo4j构建知识图谱（二）](https://blog.csdn.net/sinat_41696687/article/details/122779197)
 - [[原]使用腾讯云ServerLess部署Egg.js（项目问题排查记录）](https://blog.csdn.net/sinat_41696687/article/details/122773050)
 - [[原]从零开始使用Neo4j构建知识图谱（一）](https://blog.csdn.net/sinat_41696687/article/details/122761401)
 - [[原]LeetCode——删除链表的倒数第N个节点（快慢指针）](https://blog.csdn.net/sinat_41696687/article/details/122747303)
 - [[原]轻量级服务器通过nginx部署express项目](https://blog.csdn.net/sinat_41696687/article/details/122731442)
-- [[原]VSCode插件remote-ssh无法连接服务器的解决办法](https://blog.csdn.net/sinat_41696687/article/details/122724782)
 <!-- BLOG-POST-LIST:END -->
 
 
