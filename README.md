@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]这一次，彻底搞懂双向数据绑定01](https://blog.csdn.net/sinat_41696687/article/details/122932489)
 - [[原]这一次，彻底搞懂深拷贝](https://blog.csdn.net/sinat_41696687/article/details/122913171)
 - [[原]这一次，彻底搞懂Promise](https://blog.csdn.net/sinat_41696687/article/details/122892294)
 - [[原]LeetCode——最长公共子序列（动态规划）](https://blog.csdn.net/sinat_41696687/article/details/122873288)
 - [[原]JS是单线程的，那么JS是如何实现并发请求的？](https://blog.csdn.net/sinat_41696687/article/details/122853938)
-- [[原]LeetCode——下一个排列（降序重排法）](https://blog.csdn.net/sinat_41696687/article/details/122834785)
 <!-- BLOG-POST-LIST:END -->
 
 
