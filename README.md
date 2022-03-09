@@ -14,10 +14,10 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]单页面应用的前端路由原理是什么？](https://blog.csdn.net/sinat_41696687/article/details/123368163)
 - [[原]请这样回答双向数据绑定原理](https://blog.csdn.net/sinat_41696687/article/details/123362327)
 - [[原]Vue和React的区别到底是什么？](https://blog.csdn.net/sinat_41696687/article/details/123311438)
 - [[原]LeetCode——二叉搜索树的第k大节点（逆中序+count）](https://blog.csdn.net/sinat_41696687/article/details/123306478)
-- [[原]请这样回答双向数据绑定原理](https://blog.csdn.net/sinat_41696687/article/details/123305520)
 - [[原]实现Sleep函数的四种方法](https://blog.csdn.net/sinat_41696687/article/details/123263576)
 <!-- BLOG-POST-LIST:END -->
 
