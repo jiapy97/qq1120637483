@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]使用reduce实现数组扁平化](https://blog.csdn.net/sinat_41696687/article/details/123589423)
 - [[原]使用reduce实现map](https://blog.csdn.net/sinat_41696687/article/details/123542559)
 - [[原]浏览器的渲染原理你了解吗？](https://blog.csdn.net/sinat_41696687/article/details/123472602)
 - [[原]这一次，彻底搞懂进程与线程之间的联系](https://blog.csdn.net/sinat_41696687/article/details/123458338)
 - [[原]这一次，一起来了解下position的盲区](https://blog.csdn.net/sinat_41696687/article/details/123447034)
-- [[原]单页面应用的前端路由原理是什么？](https://blog.csdn.net/sinat_41696687/article/details/123368163)
 <!-- BLOG-POST-LIST:END -->
 
 
