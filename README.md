@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]手写函数柯里化](https://blog.csdn.net/sinat_41696687/article/details/123975684)
 - [[原]你知道多少种判断数据类型的方法？](https://blog.csdn.net/sinat_41696687/article/details/123848948)
 - [[原]这一次，彻底搞懂Vue的组件通信](https://blog.csdn.net/sinat_41696687/article/details/123840142)
 - [[原]关于数组去重，你知道多少种方案？](https://blog.csdn.net/sinat_41696687/article/details/123669765)
 - [[原]使用reduce实现数组扁平化](https://blog.csdn.net/sinat_41696687/article/details/123589423)
-- [[原]使用reduce实现map](https://blog.csdn.net/sinat_41696687/article/details/123542559)
 <!-- BLOG-POST-LIST:END -->
 
 
