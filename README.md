@@ -14,11 +14,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[原]你了解Vue的动态加载组件和异步加载组件吗？](https://blog.csdn.net/sinat_41696687/article/details/124064003)
 - [[原]Vue的作用域插槽slot有什么用？](https://blog.csdn.net/sinat_41696687/article/details/124061077)
 - [[原]浅析Vue中$nextTick的原理](https://blog.csdn.net/sinat_41696687/article/details/124057228)
 - [[原]你真的了解Vue的生命周期吗？](https://blog.csdn.net/sinat_41696687/article/details/124054869)
 - [[原]Vue中的methods、watch、computed、filters到底有什么区别？](https://blog.csdn.net/sinat_41696687/article/details/124020200)
-- [[原]LeetCode——回文数（反转比较）](https://blog.csdn.net/sinat_41696687/article/details/123981129)
 <!-- BLOG-POST-LIST:END -->
 
 
